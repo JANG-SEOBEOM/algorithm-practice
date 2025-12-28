@@ -1,3 +1,4 @@
+# Source: "This Is Coding Test with Python", Chapter 3-2 (Practice Problem)
 # Greedy Algorithm Practice:
 # Find the maximum possible sum by adding numbers under repetition constraints.
 

@@ -1,3 +1,4 @@
+# Source: "This Is Coding Test with Python", Chapter 3-2 (Practice Problem)
 # Greedy Algorithm Practice (The Law of Large Numbers)
 # This solution uses a repeating pattern to compute the maximum sum efficiently
 # without iterating m times.
